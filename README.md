@@ -172,7 +172,7 @@ All visualizations are saved in the **`images/` folder**. Below we detail **each
 ---
 
 ### 📈 Ratings Trend Over Time (2010–2023)  
-![Alt text](images/rating_trends.png)  
+![Alt text](images/gross_trend_enhanced.png)  
 
 - **What it shows:** Yearly average IMDb rating.  
 - **Why this chart:** A **line chart** captures temporal changes and long-term trends.  
@@ -184,7 +184,7 @@ All visualizations are saved in the **`images/` folder**. Below we detail **each
 ---
 
 ### 🎥 Votes Distribution by Genre  
-![Alt text](images/votes_by_genre.png)
+![Alt text](images/corr_heatmap_enhanced.png)
 
 
 - **What it shows:** Average number of audience votes for each genre.  
