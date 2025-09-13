@@ -147,8 +147,8 @@ All visualizations are saved in the **`images/` folder**. Below we detail **each
 
 ---
 
-### ⏳ Runtime Distribution (Bell Curve)  
-![Alt text](images/runtime_distribution.png)  
+### ⏳ Runtime Distribution 
+![Alt text](images/gross_distribution_bellcurve.png)  
 
 - **What it shows:** A histogram + KDE plot of runtimes for all films (2010–2023).  
 - **Why this chart:** Runtime is **continuous data**, best explored through distribution. The KDE overlay highlights the smooth “bell curve” shape.  
@@ -160,7 +160,7 @@ All visualizations are saved in the **`images/` folder**. Below we detail **each
 ---
 
 ### ⭐ Ratings Distribution  
-![Alt text](images/rating_distribution.png)  
+![Alt text](images/images/distribution by runtime(minute).png)  
 
 - **What it shows:** Histogram of IMDb ratings across all films.  
 - **Why this chart:** Ratings are continuous and audience-driven — a histogram reveals whether movies tend to score high or low.  
