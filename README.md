@@ -160,7 +160,8 @@ All visualizations are saved in the **`images/` folder**. Below we detail **each
 ---
 
 ### ⭐ Ratings Distribution  
-![Alt text](images/images/distribution by runtime(minute).png)  
+ 
+![Alt text](images/distribution by runtime(minute).png)  
 
 - **What it shows:** Histogram of IMDb ratings across all films.  
 - **Why this chart:** Ratings are continuous and audience-driven — a histogram reveals whether movies tend to score high or low.  
