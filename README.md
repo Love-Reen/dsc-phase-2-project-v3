@@ -1,5 +1,6 @@
 # 🎬 IMDb Movie Analysis (2010–2023)  
 
+![Alt text](images/movie.jpg)  
 Unlocking insights from **13 years of IMDb data** to understand trends in genres, ratings, runtimes, and box office performance.  
 
 ---
@@ -86,6 +87,8 @@ The dataset spans **2010–2023** and was obtained from IMDb (stored in the `zip
 
 ## 🎞 Dataset  
 
+![Alt text](images/imdb.jpg)  
+
 - **Source:** Extracted from IMDb and curated datasets.  
 - **Timeframe:** **2010–2023**, covering 14 years of global cinema.  
 - **Scope:** Thousands of movies across diverse genres and runtimes.  
@@ -130,6 +133,8 @@ It provides both **audience-driven metrics** (ratings & votes) and **industry-le
 ---
 
 ## 📊 Visualizations  
+
+![Alt text](images/lightscameraaction.jpg)  
 
 All visualizations are saved in the **`images/` folder**. Below we detail **each chart, why it was chosen, and what it reveals**.  
 
