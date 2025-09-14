@@ -147,17 +147,6 @@ All visualizations are saved in the **`images/` folder**. Below we detail **each
 
 ---
 
-### ⏳ Runtime Distribution 
-![Alt text](images/gross_distribution_bellcurve.png)  
-
-- **What it shows:** A histogram + KDE plot of runtimes for all films (2010–2023).  
-- **Why this chart:** Runtime is **continuous data**, best explored through distribution. The KDE overlay highlights the smooth “bell curve” shape.  
-- **Insights:**  
-  - Most films fall between **90–120 minutes** (sweet spot for theaters).  
-  - Few extremely long films (>180 minutes), but they often earn critical acclaim.  
-  - Short runtimes (<60 min) are uncommon in mainstream cinema.  
-
----
 
 ### ⭐ Ratings Distribution  
  
